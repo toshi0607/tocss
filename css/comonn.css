@@ -1,0 +1,19 @@
+@charset "UTF-8"
+
+html { background: #abc;}
+
+body {
+  margin: 0 3em;
+  padding: 0;
+  border: 1px solid gray;
+  border-bottom: thick solid navy;
+  background: white;
+  color: black;
+  line-height: 1.5;
+}
+
+h1 { font-size: x-large; }
+
+h2 { font-size: large; }
+
+p { margin: 0.5em 1em; }
